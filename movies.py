@@ -25,6 +25,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ],  # actors/actresses
     ),
     (
+        "stuart little",
+        "rob minkoff",
+        1999,
+        [
+            "michael fox",
+            "hugh laurie",
+            "greena davis",
+            "jonathan lipnicki",
+        ],
+    ),
+    (
         "the big easy",
         "jim mcbride",
         1987,
